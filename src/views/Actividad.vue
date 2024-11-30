@@ -13,9 +13,10 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema: 'Manejo del cultivo de aguacate, cosecha y poscosecha.',
       titulo: 'Cuestionario',
-      introduccion: '<b> Objetivo:</b> Texto de Word',
+      introduccion:
+        '<b> Objetivo:</b> Desarrollar habilidades en el manejo integral del cultivo de aguacate, abarcando técnicas de siembra, cuidados agronómicos, métodos de cosecha y prácticas de poscosecha. Se busca fomentar el conocimiento sobre la optimización de recursos, la prevención de plagas y enfermedades, y asegurar la calidad del producto, contribuyendo así a una producción sostenible y rentable.',
       barajarPreguntas: true,
       preguntas: [
         {
