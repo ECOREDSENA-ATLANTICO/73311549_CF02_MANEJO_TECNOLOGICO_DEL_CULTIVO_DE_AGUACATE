@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **73311549 CF02 Manejo del cultivo de aguacate, cosecha y poscosecha**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/73311549_CF02_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/](https://ecoredsena-atlantico.github.io/73311549_CF02_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/)
 
 #
 
