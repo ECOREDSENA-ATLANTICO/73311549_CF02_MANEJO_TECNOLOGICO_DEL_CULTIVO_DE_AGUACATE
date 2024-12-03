@@ -239,8 +239,8 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
-          nombre: 'Mónica Patricia Osorio Martínez',
-          cargo: 'Asesora pedagógica',
+          nombre: 'Paola Andrea Bobadilla Gutiérrez',
+          cargo: 'Guionista Línea de Producción',
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
@@ -267,7 +267,7 @@ export default {
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
