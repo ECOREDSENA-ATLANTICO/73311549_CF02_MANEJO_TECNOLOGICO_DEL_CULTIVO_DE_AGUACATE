@@ -295,6 +295,88 @@
           img(src='@/assets/curso/temas/tema1/img_15.png', alt='Diagrama de plántula en campo luego de la siembra.').mx-auto
 
 
+    
+    Separador
+
+    .row.justify-content-center.align-items-center.mb-1
+      .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_3.position-relative Labores culturales
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+
+      .col-lg-12.mb-4
+        p.mb-3 Esta labor se realiza entre los 45 y 60 días antes de la siembra y permite señalar los puntos donde las plantas van a quedar establecidas. El sitio depende de la topografía del terreno y la dirección del recorrido del sol para evitar en lo posible el sombrea miento entre árboles.
+        p.text-bold Se pueden utilizar diferentes métodos de trazado:
+
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-10      
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_4.position-relative Manejo de tutores: 
+            img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-lg-8
+            p El manejo de tutores en aguacate es indispensable para lograr un árbol recto y bien distribuido, que permita darle un fácil manejo a la hora de realizar las podas de formación. Esta labor se hace clavando una estaca delgada a 10 cm por fuera de la zona de gotera del árbol, atando el tronco con tiras de tela, buscando una adecuada dirección de la planta, procurando que el tronco principal quede lo más recto posible para darle una adecuada conformación al árbol.
+          .col-md-6.col-lg-4
+            figure
+              img(src="@/assets/curso/temas/tema1/img_23.png", alt="alt").img400.m-auto
+    
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-10      
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_4.position-relative Plateo: 
+            img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+
+        .row.justify-content-center.align-items-center.ordenar_tarjeta_lg
+          .col-md-6.col-lg-4.pos_2
+            figure
+              img(src="@/assets/curso/temas/tema1/img_24.png", alt="alt").img400.m-auto
+          .col-lg-8
+            p El manejo de tutores en aguacate es indispensable para lograr un árbol recto y bien distribuido, que permita darle un fácil manejo a la hora de realizar las podas de formación. Esta labor se hace clavando una estaca delgada a 10 cm por fuera de la zona de gotera del árbol, atando el tronco con tiras de tela, buscando una adecuada dirección de la planta, procurando que el tronco principal quede lo más recto posible para darle una adecuada conformación al árbol.
+          
+    
+    Separador
+
+    .row.justify-content-center.align-items-center.mb-1
+      .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_3.position-relative Podas
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+
+      .col-lg-12.mb-4
+        p En general en los trópicos la poda estimula el crecimiento vegetativo en detrimento de la floración, por lo que en la mayoría de las ocasiones se limita la poda a una limpieza de ramas secas, mal formadas o distribuidas. En la variedad Hass se tiene como técnica podar las ramas de la parte superior de la copa de los árboles, con el fin de equilibrar la producción y regular la alternancia de cosechas.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10      
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_4.position-relative Poda de formación: 
+            img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+
+        .row.justify-content-center.align-items-center.ordenar_tarjeta_lg
+          .col-md-6.col-lg-4.mb-2.pos_2
+            figure
+              img(src="@/assets/curso/temas/tema1/img_25.png", alt="alt").img400.m-auto
+          .col-lg-8.mb-2
+            p.mb-3 Es indispensable y se realiza en los primeros años de desarrollo, consiste en cortar ramas con el propósito de dirigir el crecimiento y estimulando la brotación de nuevas ramas. El procedimiento consiste en dejar todas las ramas fuertes, preferiblemente las que se encuentren en un ángulo de 45 grados, dejando una en cada punto cardinal.
+            p En el aguacate se recomienda dejar de tres (3) a cinco (5) ramas máximo bien distribuidas para permitir una buena entrada de luz en todo el árbol. El corte del tallo principal se hace al momento en que finaliza la selección de las ramas que se dejarán para orientar la producción. Es importante eliminar las ramas que tienen dirección al suelo.
+
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-10      
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_4.position-relative Poda de mantenimiento:
+            img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-lg-8.mb-2
+            p.mb-3 Es indispensable y se realiza en los primeros años de desarrollo, consiste en cortar ramas con el propósito de dirigir el crecimiento y estimulando la brotación de nuevas ramas. El procedimiento consiste en dejar todas las ramas fuertes, preferiblemente las que se encuentren en un ángulo de 45 grados, dejando una en cada punto cardinal.
+            p En el aguacate se recomienda dejar de tres (3) a cinco (5) ramas máximo bien distribuidas para permitir una buena entrada de luz en todo el árbol. El corte del tallo principal se hace al momento en que finaliza la selección de las ramas que se dejarán para orientar la producción. Es importante eliminar las ramas que tienen dirección al suelo.
+
+          .col-md-6.col-lg-4.mb-2
+            figure
+              img(src="@/assets/curso/temas/tema1/img_26.png", alt="alt").img400.m-auto
+    
+
+
     Separador
 
     .row.justify-content-center.align-items-center.mb-1
@@ -436,7 +518,7 @@
       .col-lg-10.mb-2
         p La extracción de nutrientes en la fruta puede ser un buen parámetro para utilizarse para determinar la dosis de nutrientes a aplicar.
 
-      .col-lg-10.mb-2
+      .col-md-10.col-lg-6.mb-2
         .titulo-sexto.bg-11.mb-4
             h5 Tabla 3. 
             span.text-dark Extracción de nutrientes en fruta fresca de aguacate, de árboles en plena producción
@@ -513,10 +595,11 @@
 
         p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y trips . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuación, plagas de follaje:
 
-      .col-md-6.col-lg-4.mb-3
+    .row.justify-content-center.align-items-center.mb-3.ordenar_tarjeta_lg
+      .col-md-6.col-lg-4.col-xl-4.mb-2.pos_1
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_17.png", alt="alt").img400.m-auto
-      .col-lg-8.mb-3
+      .col-lg-12.col-xl-8.mb-2
         SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-6")
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
@@ -535,7 +618,8 @@
               .col-8.bg-04
                 h4.p-1.text-white.text-center Las larvas y pupas
             p.text-center.mb-0 pasan todo su ciclo en el interior de ramas y tallos. Esta especie agujera el tronco y las ramas; las cuales se van secando hasta provocar la muerte del árbol. El ataque se manifiesta por la presencia de aserrín blanco fuera del orificio que producen en las ramas. Es la plaga que más daños causa en Colombia, considerada como la más importante del cultivo. Cuando la plaga se presenta, se debe manejar mediante la poda de las ramas afectadas, las cuales deben ser quemadas; después se debe aplicar en los cortes una pasta cicatrizante.
-
+    
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12.mb-2
         .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
           .div.mb-3(data-aos="fade-right")

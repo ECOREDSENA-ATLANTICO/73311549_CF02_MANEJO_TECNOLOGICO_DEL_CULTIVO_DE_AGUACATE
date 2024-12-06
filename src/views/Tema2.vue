@@ -128,43 +128,43 @@
       .col-lg-10.order-2.order-lg-1.align-items-center
         TabsA.color-primario.mb-5
           .tarjeta.clr-paleYellow.p-4(titulo="Los mejores cortes:")
-            .row.justify-content-center.align-items-center
-              .col-lg-5  
+            .row.justify-content-center.align-items-center.ordenar_tarjeta_lg
+              .col-lg-12.col-xl-5  
                 p Se logran utilizando cuchillos bien afilados, sin embargo, se deben evitar golpes y rajaduras con la cuchilla en el fruto, lo que afecta la presentación en el mercado y la vida de almacenamiento. Las heridas permiten la penetración de hongos y en consecuencia la pudrición de los frutos en el proceso de maduración durante la poscosecha
-              .col-md-6.col-lg-7
+              .col-md-6.col-lg-5.col-xl-7
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_3.png", alt="alt").img400.mx-auto
 
           .tarjeta.clr-paleYellow.p-4(titulo="Cuando los frutos están partes altas del árbol")
             .row.justify-content-center.align-items-center
-              .col-lg-5  
+              .col-lg-12.col-xl-5  
                 p Se recomienda utilizar varillas (con cuchillos o navajas filosas) u otra herramienta afilada larga para cosechar la fruta. En otras ocasiones cuando el árbol es demasiado alto se utiliza escalera, este método de recolección es bastante riesgoso y se debe tener mucho cuidado de no dañar el árbol.
-              .col-md-6.col-lg-7
+              .col-md-6.col-lg-5.col-xl-7
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_4.png", alt="alt").img400.mx-auto
 
           .tarjeta.clr-paleYellow.p-4(titulo="No se recomienda:")
             .row.justify-content-center.align-items-center
-              .col-lg-5  
+              .col-lg-12.col-xl-5  
                 p Cosechar la fruta de las partes altas golpeándola con herramientas largas o palos, ni subirse al árbol a cortarla y dejarla caer al suelo; pues esto puede traer problemas de deterioro de la fruta y grandes pérdidas en la cosecha. Una vez la fruta ha sido desprendida del árbol se coloca en bolsas de tela o estopa de fibra que son cargadas al hombro por los cosechadores.
-              .col-md-6.col-lg-7
+              .col-md-6.col-lg-5.col-xl-7
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_5.png", alt="alt").img400.mx-auto
 
           .tarjeta.clr-paleYellow.p-4(titulo="Después los frutos se organizan en canastillas:")
             .row.justify-content-center.align-items-center
-              .col-lg-4  
+              .col-lg-12.col-xl-4  
                 p Plásticas (bien limpias) tipo carullera que cuenta con las siguientes medidas: 52 cm largo, 35 cm anchor y 30 cm alto o si es la canastilla tradicional: 59 cm largo, 40 cm ancho y 24 cm alto.
-              .col-md-6.col-lg-8
+              .col-md-6.col-lg-5.col-xl-8
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_6.png", alt="alt").img400.mx-auto
 
           .tarjeta.clr-paleYellow.p-4(titulo="Cantidad en la canastilla:")
             .row.justify-content-center.align-items-center
-              .col-lg-5  
+              .col-lg-12.col-xl-5  
                 p.mb-3 Se deben colocar como máximo 3 o 4 capas de fruta dentro de las canastillas, con un peso de 20 kg, para evitar daños mecánicos y físicos en el transporte.
                 p Se puede decir que la calidad es un conjunto de atributos que le otorgan a un producto una mejora aceptación por el consumidor y además le da a este un mejor precio en el mercado. 
-              .col-md-6.col-lg-7
+              .col-md-6.col-lg-5.col-xl-7
                 figure(data-aos="zoom-in")
                   img(src="@/assets/curso/temas/tema2/img_7.png", alt="alt").img400.mx-auto
 
