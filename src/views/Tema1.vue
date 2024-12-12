@@ -308,7 +308,7 @@
         p.mb-3 Esta labor se realiza entre los 45 y 60 días antes de la siembra y permite señalar los puntos donde las plantas van a quedar establecidas. El sitio depende de la topografía del terreno y la dirección del recorrido del sol para evitar en lo posible el sombrea miento entre árboles.
         p.text-bold Se pueden utilizar diferentes métodos de trazado:
 
-    .row.justify-content-center.align-items-center.mb-2
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10      
         .div.mb-3(data-aos="fade-right")
           h3.bgr_4.position-relative Manejo de tutores: 
@@ -626,62 +626,62 @@
             h3.bgr_4.position-relative Plagas del follaje 
               img.pst(src='@/assets/curso/temas/tema1/img_3_2.png', alt='')
 
-        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y trips . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuación, plagas de follaje:
+        p Las plagas de follaje son insectos y ácaros que atacan las hojas de las plantas, causando daños como amarillamiento, deformaciones y pérdida de vitalidad. Comúnmente incluyen ácaros o arañitas y trips . Estas plagas se alimentan de savia, debilitando las plantas y, en algunos casos, transmitiendo enfermedades. Su control puede implicar el uso de insecticidas, trampas o métodos biológicos, como depredadores naturales, a continuac  ión, plagas de follaje:
 
       .col-md-5.col-lg-4.mb-3
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_18.png", alt="alt").mx-auto
       .col-lg-8.mb-3
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-primario.text-small
           .row(numero="1" titulo="Ácaros o arañitas, arañitas Tetranychus urticae, Tetranychus bimaculatus,Mononychellus planki, Oligonychus punicae y Oligonychus yothersi, Eriophyes sp:")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Los ácaros, insectos pequeños de menos de 1 cm, viven en colonias bajo las hojas y a lo largo de las nervaduras. Succionan la savia, causando manchas amarillentas y secado del follaje. En infestaciones severas, también afectan las yemas, que se deforman. Su incidencia es mayor en épocas secas y calurosas, y su población se regula por la lluvia y depredadores. Se recomienda el uso de acaricidas a base de azufre para manejar Oligonychus y Eriophyes.
+              p Los ácaros, insectos pequeños de menos de 1 cm, viven en colonias bajo las hojas y a lo largo de las nervaduras. Succionan la savia, causando manchas amarillentas y secado del follaje. En infestaciones severas, también afectan las yemas, que se deforman. Su incidencia es mayor en épocas secas y calurosas, y su población se regula por la lluvia y depredadores. Se recomienda el uso de acaricidas a base de azufre para manejar Oligonychus y Eriophyes.
           
           .row(numero="2" titulo="Trips (Heliothrips haemorrhoidalis y Selenothrips rubrocinctus):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Los trips son insectos pequeños de 0.3 a 1.4 cm, con dos pares de alas largas, que pueden reproducirse sexual y asexualmente. Cada hembra pone alrededor de 60 huevos. Su desarrollo se ve afectado por humedades bajas, siendo más abundantes en épocas secas, cuando se hospedan en arvenses. Su ataque causa engrosamiento y agrietamiento en frutos y hojas, además de decoloración y caída de frutos pequeños. Se debe monitorear durante la floración y mantener las plantaciones libres de arvenses hospederas.
+              p Los trips son insectos pequeños de 0.3 a 1.4 cm, con dos pares de alas largas, que pueden reproducirse sexual y asexualmente. Cada hembra pone alrededor de 60 huevos. Su desarrollo se ve afectado por humedades bajas, siendo más abundantes en épocas secas, cuando se hospedan en arvenses. Su ataque causa engrosamiento y agrietamiento en frutos y hojas, además de decoloración y caída de frutos pequeños. Se debe monitorear durante la floración y mantener las plantaciones libres de arvenses hospederas.
 
           .row(numero="3" titulo="Escamas articuladas (Selenaspidus articulatus y Pseudo Ischnaspis bowery):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Son insectos planos, pequeños con cubierta de color y forma variable. Son plagas muy especializadas que chupan la savia de las plantas causando alteraciones en los tejidos vegetales, viven en colonias y atacan troncos, ramas, hojas y frutos. Su población se ve favorecida en época seca cuando disminuyen sus enemigos naturales.
+              p Son insectos planos, pequeños con cubierta de color y forma variable. Son plagas muy especializadas que chupan la savia de las plantas causando alteraciones en los tejidos vegetales, viven en colonias y atacan troncos, ramas, hojas y frutos. Su población se ve favorecida en época seca cuando disminuyen sus enemigos naturales.
 
           .row(numero="4" titulo="Escamas protegidas (Saissetia oleae y Chrysomphalus dictyospermi):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Se conocen como escamas protegidas, debido a su consistencia dura. Son insectos pequeños, inmóviles y planos, cubiertos por un caparazón de cera, de diferentes formas y color, según la especie. En ataques fuertes pueden causar defoliación. Algunos de ellos secretan un líquido azucarado que atrae las hormigas y sobre el cual crece el hongo causante de la fumagina. Durante las épocas secas su población puede aumentar al verse disminuidos los enemigos naturales. Los primeros síntomas en las hojas son las manchas amarillentas en la superficie y los ataques muy fuertes pueden causar la defoliación de la planta. En los frutos causan manchas y a veces deformación. Ataca cultivos de aguacate que se encuentran descuidados, con mal manejo y abandonados
+              p Se conocen como escamas protegidas, debido a su consistencia dura. Son insectos pequeños, inmóviles y planos, cubiertos por un caparazón de cera, de diferentes formas y color, según la especie. En ataques fuertes pueden causar defoliación. Algunos de ellos secretan un líquido azucarado que atrae las hormigas y sobre el cual crece el hongo causante de la fumagina. Durante las épocas secas su población puede aumentar al verse disminuidos los enemigos naturales. Los primeros síntomas en las hojas son las manchas amarillentas en la superficie y los ataques muy fuertes pueden causar la defoliación de la planta. En los frutos causan manchas y a veces deformación. Ataca cultivos de aguacate que se encuentran descuidados, con mal manejo y abandonados
 
           .row(numero="5" titulo="Chinche Monalonion (Monalonion Dissimulatum):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Son insectos alargados de 1,5 cm de longitud y de color oscuro. Atacan principalmente las partes tiernas de los árboles, los daños son similares a quemaduras de cigarrillo que se confunde con hongos, los frutos pequeños detienen su crecimiento y se secan. Temperaturas y humedades relativas altas son muy favorables. El control se realiza con insecticidas de contacto categoría III y IV, y con buenas prácticas de manejo.
+              p Son insectos alargados de 1,5 cm de longitud y de color oscuro. Atacan principalmente las partes tiernas de los árboles, los daños son similares a quemaduras de cigarrillo que se confunde con hongos, los frutos pequeños detienen su crecimiento y se secan. Temperaturas y humedades relativas altas son muy favorables. El control se realiza con insecticidas de contacto categoría III y IV, y con buenas prácticas de manejo.
 
           .row(numero="6" titulo="Gusano pega – pega o bicho candela (Platynota sp):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small La larva es de color verde claro y alcanza hasta 2 cm de longitud, raspa la superficie inferior de las hojas y producen una desecación. Pega las hojas entre sí y forma paquetes donde viven y completan su ciclo de desarrollo. Se presenta en mayor cantidad en períodos prolongados de sequía. El control se debe realizar de manera cultural, recogiendo los manojos de hojas y quemándolas; dada la forma como vive el insecto, el control químico no es eficaz.
+              p La larva es de color verde claro y alcanza hasta 2 cm de longitud, raspa la superficie inferior de las hojas y producen una desecación. Pega las hojas entre sí y forma paquetes donde viven y completan su ciclo de desarrollo. Se presenta en mayor cantidad en períodos prolongados de sequía. El control se debe realizar de manera cultural, recogiendo los manojos de hojas y quemándolas; dada la forma como vive el insecto, el control químico no es eficaz.
 
       .col-lg-8.mb-3
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-primario.text-small
           .row(numero="7" titulo="Gusano canasta (Oiketicus kirbyi):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small el daño de este insecto se distingue por la defoliación severa de cogollos, la cual está acompañada por la presencia de canastas alargadas en forma de tabaco, elaboradas por las larvas con trozos de hojas y filamentos sedosos. Es un gran comedor de hojas y sus daños son bastante notorios. El control biológico para este insecto tiene muy buenos resultados con la bacteria Bacillus thuringiensis.
+              p el daño de este insecto se distingue por la defoliación severa de cogollos, la cual está acompañada por la presencia de canastas alargadas en forma de tabaco, elaboradas por las larvas con trozos de hojas y filamentos sedosos. Es un gran comedor de hojas y sus daños son bastante notorios. El control biológico para este insecto tiene muy buenos resultados con la bacteria Bacillus thuringiensis.
           
           .row(numero="8" titulo="Gusano comedor de hojas, Gusano barba de indio (Megalopyge orsíloco), Gusano pollo (Megalopyge lanata) y gusano perro del naranjo (Anchisiades papilio):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small el daño que pueden causar depende del número de individuos, todos son comedores de hoja. Tienen fácil control biológico con pájaros y avispas.
+              p el daño que pueden causar depende del número de individuos, todos son comedores de hoja. Tienen fácil control biológico con pájaros y avispas.
 
           .row(numero="9" titulo="Vaquitas del follaje (Compsus sp):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Los adultos son insectos de color blanco perla que atacan cultivos en todas las zonas productoras. Su población aumenta sin podas, con alta densidad de siembra y durante la época de lluvias. Causan daños en hojas, flores y frutos, produciendo cortes irregulares en las hojas jóvenes. El manejo debe ser preventivo e incluir buenas prácticas, como podas, nutrición mineral y la aplicación de los hongos Beauveria bassiana y Metarhizium anisopliae al suelo o al follaje.
+              p Los adultos son insectos de color blanco perla que atacan cultivos en todas las zonas productoras. Su población aumenta sin podas, con alta densidad de siembra y durante la época de lluvias. Causan daños en hojas, flores y frutos, produciendo cortes irregulares en las hojas jóvenes. El manejo debe ser preventivo e incluir buenas prácticas, como podas, nutrición mineral y la aplicación de los hongos Beauveria bassiana y Metarhizium anisopliae al suelo o al follaje.
 
           .row(numero="10" titulo="Hormiga arriera (Atta spp):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small las hormigas arrieras hacen cortes del follaje provocando la defoliación total o parcial del árbol. El control más efectivo para este insecto es el método mecánico, que consiste en la ubicación y eliminación de la reina cuando el hormiguero tiene un solo conducto, o la destrucción de las colonias, mediante labores normales como aradas y rastrilladas. La colocación de una barrera física al paso de las hormigas a través del tallo también es un método que presenta resultados favorables.
+              p las hormigas arrieras hacen cortes del follaje provocando la defoliación total o parcial del árbol. El control más efectivo para este insecto es el método mecánico, que consiste en la ubicación y eliminación de la reina cuando el hormiguero tiene un solo conducto, o la destrucción de las colonias, mediante labores normales como aradas y rastrilladas. La colocación de una barrera física al paso de las hormigas a través del tallo también es un método que presenta resultados favorables.
 
           .row(numero="11" titulo="Perforador del fruto (Stenoma catenifer):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Los adultos son polillas pequeñas con alas pardo amarillento que colocan sus huevos en frutos pequeños. Las larvas penetran la pulpa, formando galerías y dañando las semillas. Los frutos caen o pierden valor comercial tras el ataque. El control incluye buenas prácticas culturales, como fertilización, podas sanitarias y recolección de frutos afectados. Se recomienda aplicar insecticidas desde que el fruto cuaja, así como recoger, destruir y enterrar los frutos caídos para evitar infestaciones.
+              p Los adultos son polillas pequeñas con alas pardo amarillento que colocan sus huevos en frutos pequeños. Las larvas penetran la pulpa, formando galerías y dañando las semillas. Los frutos caen o pierden valor comercial tras el ataque. El control incluye buenas prácticas culturales, como fertilización, podas sanitarias y recolección de frutos afectados. Se recomienda aplicar insecticidas desde que el fruto cuaja, así como recoger, destruir y enterrar los frutos caídos para evitar infestaciones.
 
           .row(numero="12" titulo="Picudo del aguacate (Heilipus lauri y Heilipus pittieri):")
             .col-md-12.mb-4.mb-md-0
-              p.text-small El cucarrón adulto es negro brillante con dos bandas amarillas y mide entre 5 y 15 mm. Perfora túneles en los frutos para depositar sus huevos; las larvas se alimentan de la semilla. Si el ataque ocurre en frutos pequeños, estos caen; en frutos maduros, pueden pudrirse por microorganismos. Además, el adulto se alimenta de brotes, hojas y frutos. Para el control, se recomienda recoger y enterrar los frutos caídos, aplicando insecticidas de baja toxicidad si es posible.
+              p El cucarrón adulto es negro brillante con dos bandas amarillas y mide entre 5 y 15 mm. Perfora túneles en los frutos para depositar sus huevos; las larvas se alimentan de la semilla. Si el ataque ocurre en frutos pequeños, estos caen; en frutos maduros, pueden pudrirse por microorganismos. Además, el adulto se alimenta de brotes, hojas y frutos. Para el control, se recomienda recoger y enterrar los frutos caídos, aplicando insecticidas de baja toxicidad si es posible.
 
       .col-md-5.col-lg-4.mb-3
         figure(data-aos="zoom-in")
